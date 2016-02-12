@@ -1,5 +1,5 @@
 PrimaryKey,AccountCode,AccountingPeriod,TransactionDate,RecordType,DebitCredit,JournalType,JournalSource,TransactionReference,Description,AnalysisCode9,AnalysisCode10,AnalysisCode4,AnalysisCode5,AnalysisCode6,AnalysisCode8,FK_Ledger
-1,CDOD11,0122015,23122015,L,C,PPI,PROAC,PU35182,Sponsorship and Partnership  - Civil Service Award,129738,,,,,,1tfwert
+1,CDOD11,0122015,23122015,L,C,PPI,PROAC,PU35182,Sponsorship and Partnership  - Civil Service Award,129738,,,,,,1
 2,2301,0122015,23122015,L,D,PPI,PROAC,PU35182,Sponsorship and Partnership  - Civil Service Award,129738,123200,M8121,#,#,BP1203,1
 3,CCOM50,0122015,23122015,L,C,PPI,PROAC,76368,12/15 Membership Pack Production - December       ,129741,,,,,,1
 4,3530,0122015,23122015,L,D,PPI,PROAC,76368,12/15 Membership Pack Production - December       ,129741,124039,B86008,B86008,#,#,1

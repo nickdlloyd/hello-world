@@ -1,0 +1,198 @@
+﻿################################################################################
+# PrimaryKey
+# AccountCode
+# AccountingPeriod
+# TransactionDate
+# RecordType
+# DebitCredit
+# JournalType
+# JournalSource
+# TransactionReference
+# Description
+# AnalysisCode9
+# AnalysisCode10
+# AnalysisCode4
+# AnalysisCode5
+# AnalysisCode6
+# AnalysisCode8
+# FK_Ledger
+################################################################################
+PrimaryKey,AccountCode,AccountingPeriod,TransactionDate,RecordType,DebitCredit,JournalType,JournalSource,TransactionReference,Description,AnalysisCode9,AnalysisCode10,AnalysisCode4,AnalysisCode5,AnalysisCode6,AnalysisCode8,FK_Ledger
+1,CDOD11,0122015,23122015,L,C,PPI,PROAC,PU35182,Sponsorship and Partnership  - Civil Service Award,129738,,,,,,1
+2,2301,0122015,23122015,L,D,PPI,PROAC,PU35182,Sponsorship and Partnership  - Civil Service Award,129738,123200,M8121,#,#,BP1203,1
+3,CCOM50,0122015,23122015,L,C,PPI,PROAC,76368,12/15 Membership Pack Production - December       ,129741,,,,,,1
+4,3530,0122015,23122015,L,D,PPI,PROAC,76368,12/15 Membership Pack Production - December       ,129741,124039,B86008,B86008,#,#,1
+5,CWAD11,0122015,23122015,L,C,PPI,PROAC,0585,Home Insurance creation creative for cross sell as,129723,,,,,,1
+6,2801,0122015,23122015,L,D,PPI,PROAC,0585,Home Insurance creation creative for cross sell as,129723,124033,M8206,#,#,#,1
+7,CWAD11,0122015,23122015,L,C,PPI,PROAC,0583,Additional style setters – invite (internal) desk,129726,,,,,,1
+8,2308,0122015,23122015,L,D,PPI,PROAC,0583,Additional style setters – invite (internal) desk,129726,124042,M8084,#,#,BP1230,1
+9,CCOR46,0122015,22122015,L,C,PPI,PROAC,3142,Hitesh Mistry W/C 7/12/15 x  5 days @£275         ,129720,,,,,,1
+10,2309,0122015,22122015,L,D,PPI,PROAC,3142,Hitesh Mistry W/C 7/12/15 x  5 days @£275         ,129720,123636,M1004,#,#,#,1
+11,CCOR46,0122015,22122015,L,C,PPI,PROAC,3163,Hitesh Mistry W/C 7/12/15 x  5 days @£275         ,129721,,,,,,1
+12,2309,0122015,22122015,L,D,PPI,PROAC,3163,Hitesh Mistry W/C 7/12/15 x  5 days @£275         ,129721,123636,M1004,#,#,#,1
+13,CWAD11,0122015,23122015,L,C,PPI,PROAC,0582,Shutterstock image licence - 1 year               ,129727,,,,,,1
+14,2308,0122015,23122015,L,D,PPI,PROAC,0582,Shutterstock image licence - 1 year               ,129727,124041,M8084,#,#,BP1230,1
+15,CIND12,0012016,04012016,L,C,PPI,PROAC,EX16/124,ISBA Annual Conference 2016 Stand 74 - balance    ,129749,,,,,,1
+16,2602,0012016,04012016,L,D,PPI,PROAC,EX16/124,ISBA Annual Conference 2016 Stand 74 - balance    ,129749,123972,M8007,#,#,#,1
+17,CJOH56,0122015,23122015,L,C,PPI,PROAC,2759,23.11.15 - John Wright -engineer attended to elect,129753,,,,,,1
+18,2105,0122015,23122015,L,D,PPI,PROAC,2759,23.11.15 - John Wright -engineer attended to elect,129753,123698,M2002,#,#,#,1
+19,CWAD11,0122015,23122015,L,C,PPI,PROAC,0584,Ideal World - Promotional Film                    ,129725,,,,,,1
+20,2308,0122015,23122015,L,D,PPI,PROAC,0584,Ideal World - Promotional Film                    ,129725,124043,M8084,#,#,BP1230,1
+21,CUNI26,0122015,23122015,L,C,PPI,PROAC,548284,Quarterly charge for Printing Costs (usage)       ,129750,,,,,,1
+22,2102,0122015,23122015,L,D,PPI,PROAC,548284,Quarterly charge for Printing Costs (usage)       ,129750,122782,M2703,#,#,#,1
+23,CARN04,0122015,22122015,L,C,PPI,PROAC,802,5 days consultancy for remuneration project       ,129745,,,,,,1
+24,2401,0122015,22122015,L,D,PPI,PROAC,802,5 days consultancy for remuneration project       ,129745,124057,M9353,#,#,#,1
+25,2401,0122015,22122015,L,D,PPI,PROAC,802,expenses                                          ,129745,124057,M9353,#,#,#,1
+26,CSAV07,0122015,23122015,L,C,PPI,PROAC,254000639,Estate agents fees for sale of Brackenhill        ,129737,,,,,,1
+27,2101,0122015,23122015,L,D,PPI,PROAC,254000639,Estate agents fees for sale of Brackenhill        ,129737,124051,M2408,#,#,#,1
+28,2101,0122015,23122015,L,D,PPI,PROAC,254000639,Yorkshire post advert for St Georges place        ,129737,124051,M2408,#,#,#,1
+29,CWAD11,0122015,23122015,L,C,PPI,PROAC,0586,Review of incentives                              ,129724,,,,,,1
+30,2306,0122015,23122015,L,D,PPI,PROAC,0586,Review of incentives                              ,129724,124014,M8716,#,#,#,1
+31,CPRI52,0122015,23122015,L,C,PPI,PROAC,1354464869,K&P audit                                         ,129728,,,,,,1
+32,2101,0122015,23122015,L,D,PPI,PROAC,1354464869,K&P audit                                         ,129728,124028,M2403,#,#,#,1
+33,2101,0122015,23122015,L,D,PPI,PROAC,1354464869,Financial controls audit                          ,129728,124028,M2403,#,#,#,1
+34,2101,0122015,23122015,L,D,PPI,PROAC,1354464869,Product development audit                         ,129728,124028,M2403,#,#,#,1
+35,2101,0122015,23122015,L,D,PPI,PROAC,1354464869,Expenses                                          ,129728,124028,M2403,#,#,#,1
+36,2101,0122015,23122015,L,D,PPI,PROAC,1354464869,Follow up review                                  ,129728,124028,M2403,#,#,#,1
+37,2101,0122015,23122015,L,D,PPI,PROAC,1354464869,Audit Committee                                   ,129728,124028,M2403,#,#,#,1
+38,CRED16,0122015,22122015,L,C,PPI,PROAC,10113,15-12-07 Google Analytics training for Marketing t,129739,,,,,,1
+39,2103,0122015,22122015,L,D,PPI,PROAC,10113,15-12-07 Google Analytics training for Marketing t,129739,123815,M1501,#,#,#,1
+40,CODA01,0122015,21122015,L,C,PPI,PROAC,2336,PROJECT REST ROOM UNIT 3 - Refurbish rest area as ,129705,,,,,,1
+41,5999,0122015,21122015,L,D,PPI,PROAC,2336,PROJECT REST ROOM UNIT 3 - Refurbish rest area as ,129705,123770,#,#,#,BP1516,1
+42,CCOM50,0122015,17122015,L,C,PPI,PROAC,76292,January Warm dm Add nominee postage costs - volume,129651,,,,,,1
+43,2306,0122015,17122015,L,D,PPI,PROAC,76292,January Warm dm Add nominee postage costs - volume,129651,123985,M8711,#,#,#,1
+44,CSPA17,0122015,21122015,L,C,PPI,PROAC,9442,Amends to Warm DM leaflet and outer               ,129742,,,,,,1
+45,2306,0122015,21122015,L,D,PPI,PROAC,9442,Amends to Warm DM leaflet and outer               ,129742,124045,M8711,#,#,#,1
+46,CG4S01,0122015,17122015,L,C,PPI,PROAC,MTN13661,Board Room - access control G4S - S874 JAVELIN WAL,129762,,,,,,1
+47,5999,0122015,17122015,L,D,PPI,PROAC,MTN13661,Board Room - access control G4S - S874 JAVELIN WAL,129762,123660,#,#,#,BP1516,1
+48,CEXE04,0122015,17122015,L,C,PPI,PROAC,34825,M1501 - Training Talent Management                ,129777,,,,,,1
+49,2103,0122015,17122015,L,D,PPI,PROAC,34825,M1501 - Training Talent Management                ,129777,124080,M1501,#,#,#,1
+50,CVSC01,0122015,22122015,L,C,PPI,PROAC,00002376,CoM Meeting @ VSC on Monday 18th January 2016 - Al,129751,,,,,,1
+51,2401,0122015,22122015,L,D,PPI,PROAC,00002376,CoM Meeting @ VSC on Monday 18th January 2016 - Al,129751,124066,M9316,#,#,#,1
+52,CMAN50,0122015,16122015,L,C,PPI,PROAC,EVNT15185,Mid-morning tea coffee and biscuits              ,129758,,,,,,1
+53,2501,0122015,16122015,L,D,PPI,PROAC,EVNT15185,Mid-morning tea coffee and biscuits              ,129758,124064,M9523,#,#,#,1
+54,2501,0122015,16122015,L,D,PPI,PROAC,EVNT15185,Tea & Coffee                                      ,129758,124064,M9523,#,#,#,1
+55,2501,0122015,16122015,L,D,PPI,PROAC,EVNT15185,Conference Phone - outgoing                       ,129758,124064,M9523,#,#,#,1
+56,2501,0122015,16122015,L,D,PPI,PROAC,EVNT15185,DDR Finger Buffet                                 ,129758,124064,M9523,#,#,#,1
+57,2501,0122015,16122015,L,D,PPI,PROAC,EVNT15185,Communication Meeting on Thursday 12th May 2016 - ,129758,124064,M9523,#,#,#,1
+58,CMAR10,0122015,22122015,L,C,PPI,PROAC,CGVIN13998/2015,M8704 - BAU Mailing Costs                         ,129756,,,,,,1
+59,2307,0122015,22122015,L,C,PPI,PROAC,CGVIN13998/2015,M8704 - BAU Mailing Costs                         ,129756,123909,M8704,#,#,BP1201,1
+60,2307,0122015,22122015,L,D,PPI,PROAC,CGVIN13998/2015,M8704 - BAU Mailing Costs/ 3980 X £5 M&S Vouchers/,129756,123909,M8704,#,#,BP1201,1
+61,CCAC01,0122015,21122015,L,C,PPI,PROAC,249067,07/01/2016 - 06/01/201715x BA&T SAP Business Objec,129755,,,,,,1
+62,2102,0122015,21122015,L,D,PPI,PROAC,249067,07/01/2016 - 06/01/201715x BA&T SAP Business Objec,129755,124024,M3118,#,#,#,1
+63,2102,0122015,21122015,L,D,PPI,PROAC,249067,07/01/2016 - 06/01/2017 3x BA&T SAP Business Objec,129755,124024,M3118,#,#,#,1
+64,2102,0122015,21122015,L,D,PPI,PROAC,249067,07/01/2016 - 06/01/2017 2x SAP Application Busines,129755,124024,M3118,#,#,#,1
+65,CQUA19,0122015,22122015,L,C,PPI,PROAC,SINV00819493,07.12.15 - Quality Office Supplies -UHU White Tack,129772,,,,,,1
+66,2105,0122015,22122015,L,D,PPI,PROAC,SINV00819493,07.12.15 - Quality Office Supplies -UHU White Tack,129772,123838,M2701,#,#,#,1
+67,2105,0122015,22122015,L,D,PPI,PROAC,SINV00819493,07.12.15 - Quality Office Supplies -HP 300XL Inkje,129772,123838,M2701,#,#,#,1
+68,2105,0122015,22122015,L,D,PPI,PROAC,SINV00819493,07.12.15 - Quality Office Supplies -Clear Tape 24m,129772,123838,M2701,#,#,#,1
+69,2105,0122015,22122015,L,D,PPI,PROAC,SINV00819493,07.12.15 - Quality Office Supplies -Q-Connect High,129772,123838,M2701,#,#,#,1
+70,2105,0122015,22122015,L,D,PPI,PROAC,SINV00819493,07.12.15 - Quality Office Supplies -Staples 26/6 P,129772,123838,M2701,#,#,#,1
+71,2105,0122015,22122015,L,D,PPI,PROAC,SINV00819493,07.12.15 - Quality Office Supplies -Yellow Note Re,129772,123838,M2701,#,#,#,1
+72,2105,0122015,22122015,L,D,PPI,PROAC,SINV00819493,07.12.15 - Quality Office Supplies -Duracell Plus ,129772,123838,M2701,#,#,#,1
+73,2105,0122015,22122015,L,D,PPI,PROAC,SINV00819493,07.12.15 - Quality Office Supplies -Avery A3 Photo,129772,123838,M2701,#,#,#,1
+74,CSIM44,0122015,22122015,L,C,PPI,PROAC,1509,M8616 - incentives for usability test participants,129748,,,,,,1
+75,2309,0122015,22122015,L,D,PPI,PROAC,1509,M8616 - incentives for usability test participants,129748,124067,M8616,#,#,BP1412,1
+76,2309,0122015,22122015,L,D,PPI,PROAC,1509,M8612 - Usability testing - Members area          ,129748,124067,M8612,#,#,BP1412,1
+77,CGUE03,0122015,22122015,L,C,PPI,PROAC,1640,Sale of Brackenhill fees                          ,129736,,,,,,1
+78,4103,0122015,22122015,L,D,PPI,PROAC,1640,Sale of Brackenhill fees                          ,129736,124052,#,#,#,#,1
+79,CSPA17,0122015,22122015,L,C,PPI,PROAC,9412,2016 NARPO Acq insert amends                      ,129743,,,,,,1
+80,2306,0122015,22122015,L,D,PPI,PROAC,9412,2016 NARPO Acq insert amends                      ,129743,124046,M8712,#,#,#,1
+81,CMON24,0122015,18122015,L,C,PPI,PROAC,18/12/2015 Benenden,Community Relations Grant - Belfast for boxing spo,129675,,,,,,1
+82,2301,0122015,18122015,L,D,PPI,PROAC,18/12/2015 Benenden,Community Relations Grant - Belfast for boxing spo,129675,124000,M8114,#,#,BP1203,1
+83,CWAD11,0122015,21122015,L,C,PPI,PROAC,0580,2016  Acquisition Planning                        ,129703,,,,,,1
+84,2306,0122015,21122015,L,D,PPI,PROAC,0580,2016  Acquisition Planning                        ,129703,124012,M8701,#,#,#,1
+85,CCLE57,0122015,21122015,L,C,PPI,PROAC,158694-november,Advice on the new corporate product - Greg Walsh  ,129770,,,,,,1
+86,2203,0122015,21122015,L,D,PPI,PROAC,158694-november,Advice on the new corporate product - Greg Walsh  ,129770,123749,M2403,#,#,#,1
+87,CFOO03,0122015,15122015,L,C,PPI,PROAC,125003,Gold Platter Plus buffet menu x 8 people to be del,129730,,,,,,1
+88,2106,0122015,15122015,L,D,PPI,PROAC,125003,Gold Platter Plus buffet menu x 8 people to be del,129730,123729,M1504,#,#,#,1
+89,2106,0122015,15122015,L,D,PPI,PROAC,125003,Juice to be served with the above lunch           ,129730,123729,M1504,#,#,#,1
+90,2106,0122015,15122015,L,D,PPI,PROAC,125003,Disposable platters                               ,129730,123729,M1504,#,#,#,1
+91,CWAD11,0122015,21122015,L,C,PPI,PROAC,0581,Competitor Analysis                               ,129704,,,,,,1
+92,2306,0122015,21122015,L,D,PPI,PROAC,0581,Competitor Analysis                               ,129704,124013,M8701,#,#,#,1
+93,CSOF04,0122015,16122015,L,C,PPI,PROAC,INV01282211,Software Update License and Support               ,129761,,,,,,1
+94,5999,0122015,16122015,L,D,PPI,PROAC,INV01282211,Software Update License and Support               ,129761,123846,#,#,#,BP1224,1
+95,5999,0122015,16122015,L,D,PPI,PROAC,INV01282211,Oracle Database Standard Edition - DEC2015 - DEC20,129761,123846,#,#,#,BP1224,1
+96,CMED20,0122015,14122015,L,C,PPI,PROAC,D94413,Ignis campaign Facebook promotional spend         ,129617,,,,,,1
+97,2301,0122015,14122015,L,D,PPI,PROAC,D94413,Ignis campaign Facebook promotional spend         ,129617,123623,M8121,#,#,BP1203,1
+98,2301,0122015,14122015,L,D,PPI,PROAC,D94413,ASBOF                                             ,129617,124086,M8121,#,#,BP1203,1
+99,CRED16,0122015,30112015,L,C,PPI,PROAC,MK9735,8/15 Welcome email Nominees (November)            ,129713,,,,,,1
+100,3530,0122015,30112015,L,D,PPI,PROAC,MK9735,8/15 Welcome email Nominees (November)            ,129713,123514,B86008,B86008,#,#,1
+101,CINC01,0122015,22122015,L,C,PPI,PROAC,1838348,Management Fees December 2015                     ,129744,,,,,,1
+102,2101,0122015,22122015,L,D,PPI,PROAC,1838348,Management Fees December 2015                     ,129744,NOPO,M1010,#,#,#,1
+103,CMED20,0122015,06112015,L,C,PPI,PROAC,D79080,Additional Media cost Sept 2015 National Press bur,129764,,,,,,1
+104,2306,0122015,06112015,L,D,PPI,PROAC,D79080,Additional Media cost Sept 2015 National Press bur,129764,124044,M8713,#,#,#,1
+105,2306,0122015,06112015,L,D,PPI,PROAC,D79080,ASBOF                                             ,129764,124044,M8713,#,#,#,1
+106,CODA01,0122015,04122015,L,C,PPI,PROAC,2329,Project - Second Floor Boardroom  quotation ref Q4,129501,,,,,,1
+107,5999,0122015,04122015,L,D,PPI,PROAC,2329,Project - Second Floor Boardroom  quotation ref Q4,129501,123525,#,#,#,BP1516,1
+108,CRED16,0122015,30112015,L,C,PPI,PROAC,MK9731,Planit Affiliate Build                            ,129709,,,,,,1
+109,2306,0122015,30112015,L,D,PPI,PROAC,MK9731,Planit Affiliate Build                            ,129709,123614,M8603,#,#,#,1
+110,CCLI08,0122015,26112015,L,C,PPI,PROAC,6067000016,CCSD licence fee renewal                          ,129746,,,,,,1
+111,2202,0122015,26112015,L,D,PPI,PROAC,6067000016,CCSD licence fee renewal                          ,129746,123915,M2411,#,#,#,1
+112,CFOO03,0122015,03122015,L,C,PPI,PROAC,124977,Light sandwich lunch x 2 for the CEOs office for ,129731,,,,,,1
+113,2106,0122015,03122015,L,D,PPI,PROAC,124977,Light sandwich lunch x 2 for the CEOs office for ,129731,123727,M1504,#,#,#,1
+114,2106,0122015,03122015,L,D,PPI,PROAC,124977,Delivery charge                                   ,129731,123727,M1503,#,#,#,1
+115,2106,0122015,03122015,L,D,PPI,PROAC,124977,Fruit                                             ,129731,123727,M1504,#,#,#,1
+116,2106,0122015,03122015,L,D,PPI,PROAC,124977,Juice to be served with the above lunch           ,129731,123727,M1504,#,#,#,1
+117,2106,0122015,03122015,L,D,PPI,PROAC,124977,Disposable Platters                               ,129731,123727,M1504,#,#,#,1
+118,CROY01,0122015,14122015,L,C,PPI,PROAC,9051190112,RESPONSE SERVICES                                 ,129688,,,,,,1
+119,2105,0122015,14122015,L,D,PPI,PROAC,9051190112,RESPONSE SERVICES                                 ,129688,NOPO,M2510,#,#,#,1
+120,CFOO03,0122015,10122015,L,C,PPI,PROAC,124994,Silver buffett lunch x 7 People for meeting with o,129732,,,,,,1
+121,2201,0122015,10122015,L,D,PPI,PROAC,124994,Silver buffett lunch x 7 People for meeting with o,129732,123876,M1515,#,#,#,1
+122,2201,0122015,10122015,L,D,PPI,PROAC,124994,Disposable Platters                               ,129732,123876,M1515,#,#,#,1
+123,CF&G01,0122015,30112015,L,C,PPI,PROAC,BENSB001,Steve Barry - November 2015                       ,129771,,,,,,1
+124,2106,0122015,30112015,L,D,PPI,PROAC,BENSB001,Steve Barry - November 2015                       ,129771,123900,M1004,#,#,#,1
+125,CRED16,0122015,30112015,L,C,PPI,PROAC,MK9733,Send fee for Health Assessment non open follow-up ,129711,,,,,,1
+126,2306,0122015,30112015,L,D,PPI,PROAC,MK9733,Send fee for Health Assessment non open follow-up ,129711,123707,M8701,#,#,#,1
+127,CNEO01,0122015,07122015,L,C,PPI,PROAC,2015087540,My Neopost Module  agreement 00346315 for the Fran,129684,,,,,,1
+128,2105,0122015,07122015,L,D,PPI,PROAC,2015087540,My Neopost Module  agreement 00346315 for the Fran,129684,123868,M2510,#,#,#,1
+129,CMED20,0122015,14122015,L,C,PPI,PROAC,D94411,ASBOF                                             ,129619,,,,,,1
+130,2306,0122015,14122015,L,D,PPI,PROAC,D94411,ASBOF                                             ,129619,124016,M8711,#,#,#,1
+131,2306,0122015,14122015,L,D,PPI,PROAC,D94411,Monthly PNM2 intact cost                          ,129619,123653,M8711,#,#,#,1
+132,2306,0122015,14122015,L,D,PPI,PROAC,D94411,PNM2 Sep/Oct data cleanse c1700 units            ,129619,123438,M8711,#,#,#,1
+133,CRED16,0122015,30112015,L,C,PPI,PROAC,MK9738,Design Fee                                        ,129712,,,,,,1
+134,2501,0122015,30112015,L,D,PPI,PROAC,MK9738,Design Fee                                        ,129712,123599,M9518,#,#,#,1
+135,2501,0122015,30112015,L,D,PPI,PROAC,MK9738,Campaign sending fee (one off email)              ,129712,123599,M9518,#,#,#,1
+136,2501,0122015,30112015,L,D,PPI,PROAC,MK9738,Campaign Template Build                           ,129712,123599,M9518,#,#,#,1
+137,CESP02,0122015,23112015,L,C,PPI,PROAC,7148,Fulfilment                                        ,129610,,,,,,1
+138,2501,0122015,23112015,L,D,PPI,PROAC,7148,Fulfilment                                        ,129610,123564,M9518,#,#,#,1
+139,2501,0122015,23112015,L,D,PPI,PROAC,7148,Postage                                           ,129610,123564,M9518,#,#,#,1
+140,2501,0122015,23112015,L,D,PPI,PROAC,7148,Letterheads                                       ,129610,123564,M9518,#,#,#,1
+141,2501,0122015,23112015,L,D,PPI,PROAC,7148,Envelopes                                         ,129610,123564,M9518,#,#,#,1
+142,CRED16,0122015,30112015,L,C,PPI,PROAC,MK9732,Funeral Plans Survey send                         ,129710,,,,,,1
+143,2603,0122015,30112015,L,D,PPI,PROAC,MK9732,Funeral Plans Survey send                         ,129710,123410,M8085,#,#,BP1216,1
+144,CRED16,0122015,30112015,L,C,PPI,PROAC,MK9742,EMAIL RETENTION - WINTER BENHEALTH                ,129717,,,,,,1
+145,2306,0122015,30112015,L,D,PPI,PROAC,MK9742,EMAIL RETENTION - WINTER BENHEALTH                ,129717,123489,M8603,#,#,#,1
+146,CRED16,0122015,30112015,L,C,PPI,PROAC,MK9730,Lead Nurture 100 Yrs Fitness and Nursery non-conve,129708,,,,,,1
+147,2306,0122015,30112015,L,D,PPI,PROAC,MK9730,Lead Nurture 100 Yrs Fitness and Nursery non-conve,129708,123615,M8603,#,#,#,1
+148,CRED16,0122015,30112015,L,C,PPI,PROAC,MK9737,Lead nurture email trigger and send Nov 15        ,129715,,,,,,1
+149,2306,0122015,30112015,L,D,PPI,PROAC,MK9737,Lead nurture email trigger and send Nov 15        ,129715,123132,M8603,#,#,#,1
+150,CHAT05,0122015,01122015,L,C,PPI,PROAC,SD347/BD005,November 2015 Stuart Nelson 13 days procurement pr,129475,,,,,,1
+151,2112,0122015,01122015,L,D,PPI,PROAC,SD347/BD005,November 2015 Stuart Nelson 13 days procurement pr,129475,123791,M2409,#,#,#,1
+152,CLIS02,0122015,28112014,L,C,PPI,PROAC,BEN/67285,Unit 1 & 3 Emergency Lighting inspections / tests ,125710,,,,,,1
+153,2105,0122015,28112014,L,D,PPI,PROAC,BEN/67285,Unit 1 & 3 Emergency Lighting inspections / tests ,125710,117452,M2002,#,#,#,1
+154,CNEO01,0122015,15122015,L,C,PPI,PROAC,92117901,Blue Ink Cartridge for franking machine - ref 3421,129769,,,,,,1
+155,2105,0122015,15122015,L,D,PPI,PROAC,92117901,Blue Ink Cartridge for franking machine - ref 3421,129769,123952,M2510,#,#,#,1
+156,CFOO03,0122015,09122015,L,C,PPI,PROAC,124991,Disposable Platters                               ,129729,,,,,,1
+157,2106,0122015,09122015,L,D,PPI,PROAC,124991,Disposable Platters                               ,129729,123728,M1504,#,#,#,1
+158,2106,0122015,09122015,L,D,PPI,PROAC,124991,Gold Platter Plus Buffet Lunch  x 9 people for Gro,129729,123728,M1504,#,#,#,1
+159,2106,0122015,09122015,L,D,PPI,PROAC,124991,Juice to be delivered with the above lunch        ,129729,123728,M1504,#,#,#,1
+160,CFOO03,0122015,10122015,L,C,PPI,PROAC,124998,Luncheon for BCT Meeting - 10 December 2015       ,129733,,,,,,1
+161,2108,0122015,10122015,L,D,PPI,PROAC,124998,Luncheon for BCT Meeting - 10 December 2015       ,129733,123839,M1504,#,#,#,1
+162,CRED16,0122015,30112015,L,C,PPI,PROAC,MK9729,Add nominee email build - Nov 15                  ,129706,,,,,,1
+163,2306,0122015,30112015,L,D,PPI,PROAC,MK9729,Add nominee email build - Nov 15                  ,129706,123616,M8603,#,#,#,1
+164,CRED16,0122015,30112015,L,C,PPI,PROAC,MK9736,8/15 Welcome email Primes (November)              ,129714,,,,,,1
+165,3530,0122015,30112015,L,D,PPI,PROAC,MK9736,8/15 Welcome email Primes (November)              ,129714,123515,B86008,B86008,#,#,1
+166,CMED20,0122015,12112015,L,C,PPI,PROAC,D62103,ASBOF                                             ,129286,,,,,,1
+167,2602,0122015,12112015,L,D,PPI,PROAC,D62103,ASBOF                                             ,129286,123303,M8018,#,#,#,1
+168,2602,0122015,12112015,L,D,PPI,PROAC,D62103,Swansea data purchase x 153964 records           ,129286,123303,M8018,#,#,#,1
+169,CFOO03,0122015,07122015,L,C,PPI,PROAC,124982,Food Catering for x 3 meetings w/c 07/12/15 - NW/J,129735,,,,,,1
+170,2302,0122015,07122015,L,D,PPI,PROAC,124982,Food Catering for x 3 meetings w/c 07/12/15 - NW/J,129735,123896,M1504,#,#,#,1
+171,CFOO03,0122015,10122015,L,C,PPI,PROAC,124996,Gold platter for 2 people on Thursday 10 December ,129734,,,,,,1
+172,2601,0122015,10122015,L,D,PPI,PROAC,124996,Gold platter for 2 people on Thursday 10 December ,129734,123835,M1515,#,#,#,1
+173,2601,0122015,10122015,L,D,PPI,PROAC,124996,disposable platter                                ,129734,123835,M1515,#,#,#,1
+174,2601,0122015,10122015,L,D,PPI,PROAC,124996,Water for above meeting                           ,129734,123835,M1515,#,#,#,1
+175,CLIS02,0122015,28112014,L,D,PPC,PROAC,BEN67285,Unit 1 & 3 Emergency Lighting inspections / tests ,129685,,,,,,1
+176,2105,0122015,28112014,L,C,PPC,PROAC,BEN67285,Unit 1 & 3 Emergency Lighting inspections / tests ,129685,117452,M2002,#,#,#,1
+177,CRED16,0122015,30112015,L,C,PPI,PROAC,MK9734,True incomplete November trigger send             ,129707,,,,,,1
+178,2306,0122015,30112015,L,D,PPI,PROAC,MK9734,True incomplete November trigger send             ,129707,123419,M8603,#,#,#,1
